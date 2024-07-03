@@ -1,16 +1,16 @@
 '''
 CODE FOR INSTALLING NECESSARY PACKAGES TO RUN THIS SCRIPT
-
+'''
 import os
 
 os.system('python -m pip install scipy')
 os.system('python -m pip install pandas')
 os.system('python -m pip install openpyxl')
-'''
 
-'''
-IMPORTED BUILT-IN PACKAGES/MODULES
-'''
+
+
+#IMPORTED BUILT-IN PACKAGES/MODULES
+
 
 import turtle
 import tkinter as tk
